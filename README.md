@@ -30,4 +30,6 @@ Then download:
       https://www.nirsoft.net/utils/router_password_recovery.html
       https://www.nirsoft.net/internet_explorer_password.html
     
-Being completed soon
+Your pendrive will look like this:
+
+https://i.imgur.com/sbzTDM1.png
