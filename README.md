@@ -12,6 +12,7 @@ By using this process you can get the victims:
       and others.....
 
 All the process are done for you in Release option!!
+(But you still have to make shortcut so that  Start.bat  runs in minimized window)
 
 You can download it and directly add it to your pendrive.
 
@@ -86,12 +87,10 @@ To start the stealing process you just have to click the  Start  shortcut then c
 
 TIP:
 
-To make pendrive autorun  Start  shortcut itself when inserted:
+You can also make pendrive autorun itself when inserted:
 
-Create a file name  autorun.inf  :
+Search in Youtube how to do that.
 
-      [autorun]
-      OPEN=XYZ.EXE
 
 
 
