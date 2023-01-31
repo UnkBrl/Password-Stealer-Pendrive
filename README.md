@@ -26,5 +26,7 @@ Then download:
 
       https://www.nirsoft.net/utils/browsing_history_view.html
       https://www.nirsoft.net/utils/web_browser_downloads_view.html
+      https://www.nirsoft.net/utils/process_tcp_summary.html
+      https://www.nirsoft.net/utils/router_password_recovery.html
     
 Being completed soon
