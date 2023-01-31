@@ -1,5 +1,12 @@
 # Password-Stealer-Pendrive
 
+
+By using this process you can get the victims
+      Browser Downloads
+      Browser History
+      Browser Saved Passwords
+
+
 First of all go to this link https://www.nirsoft.net/password_recovery_tools.html
 
 
